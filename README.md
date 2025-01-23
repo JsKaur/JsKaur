@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Dedicated and Innovative</h3>
 
 
-- 🔭 I’m currently working on the project: [The Book Nook](https://github.com/JsKaur/bookstore)
+- 🔭 I’m currently working on the project: [Gyan Yatra](https://github.com/JsKaur/Gyan-Yatra)
 
 - 🌱 I’m currently learning **React**
 
