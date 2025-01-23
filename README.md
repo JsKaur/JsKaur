@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **kaurjchahal4@gmail.com**
 
-- 📄 Know about my experiences [C:\Users\Hp\OneDrive\JashanResume2.docx)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jashanpreet04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashanpreet04" height="30" width="40" /></a>
