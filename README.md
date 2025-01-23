@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kaurjchahal4@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/260bcdff4cdff124/EdvZLF-4F0ZEu5RCd0iym_IBbaW2Ouh-PW7RSTQbIHu8qQ?e=GOThS9](https://1drv.ms/w/c/260bcdff4cdff124/EdvZLF-4F0ZEu5RCd0iym_IBbaW2Ouh-PW7RSTQbIHu8qQ?e=GOThS9)
+- 📄 Know about my experiences ["C:\Users\Hp\OneDrive\JashanResume2.docx")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
